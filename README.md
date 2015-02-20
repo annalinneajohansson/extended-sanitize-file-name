@@ -6,5 +6,5 @@ Extended sanitize filename
 **Description:** Replace and/or remove accents and other special characters in filenames on upload  
 **Version:** 0.1  
 **Author: Anna** Johansson  
-**Author URI:** http://annathewebdesigner.com  
+**Author URI:** http://annalinneajohansson.com  
 
